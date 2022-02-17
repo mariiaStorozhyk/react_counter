@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Counter.scss"],"names":[],"mappings":"AAAA,SACE,gBAAiB,CACjB,sCAAyC,CAEzC,kBACE,YAAa,CACb,aAAA,CAAA,QAAS","file":"main.bfe6e669.chunk.css","sourcesContent":[".counter {\n  margin-left: 30px;\n  font-family: Arial, Helvetica, sans-serif;\n\n  &__buttons {\n    display: flex;\n    gap: 20px;\n  }\n}\n"]}
